@@ -23,7 +23,7 @@ env:
   CLASH_KERNEL: armv7
   UPLOAD_BIN_DIR: false
   FIRMWARE_RELEASE: true
-  FIRMWARE_TAG: armv7
+  #FIRMWARE_TAG: armv7
   TZ: Asia/Shanghai
 
 jobs:
