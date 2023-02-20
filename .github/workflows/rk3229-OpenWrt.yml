@@ -9,9 +9,7 @@
 name: rk3229-OpenWrt
 
 on:
-  workflow_dispatch:
-  schedule:
-    - cron: 0 18 * * *
+  workflow_dispatch
 
 env:
   SOURCE_URL: https://github.com/coolsnowwolf/lede
