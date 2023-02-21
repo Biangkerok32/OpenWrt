@@ -21,7 +21,7 @@ env:
   CLASH_KERNEL: armv7
   UPLOAD_BIN_DIR: false
   FIRMWARE_RELEASE: true
-  #FIRMWARE_TAG: armv7
+  FIRMWARE_TAG: rockhip
   TZ: Asia/Shanghai
 
 jobs:
